@@ -65,7 +65,7 @@ I'm a passionate **Software Engineer & MERN Stack Developer** who loves building
 
 * 📧 Email: [your-email@example.com](mailto:sigmarule0486@gmail.com)
 * 💼 LinkedIn:
-* 🌍 Portfolio:
+* 🌍 Portfolio: https://mypersonalportfoliowsp.netlify.app/
 
 ---
 
