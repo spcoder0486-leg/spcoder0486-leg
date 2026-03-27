@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 Hi, I'm Sahil
 
-<!--
-**spcoder0486-leg/spcoder0486-leg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Engineering Student
+🏫 Shri Tuljabhavani College of Engineering, Tuljapur
+🎓 DBATU University, Lonere (Raigad)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate **Software Engineer & MERN Stack Developer** who loves building modern, scalable web applications.
+
+* 💻 Focused on **Full Stack Development**
+* ⚡ Strong in building responsive and user-friendly UIs
+* 🧠 Always learning new technologies and improving problem-solving skills
+* 🔧 Interested in real-world project development & system design
+
+---
+
+## 🛠️ Tech Stack
+
+### 💡 Frontend
+
+* React.js
+* Angular
+* HTML5, CSS3, JavaScript (ES6+)
+* Responsive UI / UX Design
+
+### ⚙️ Backend
+
+* Node.js
+* Express.js
+* REST APIs
+
+### 🗄️ Database
+
+* MongoDB
+* MySQL
+
+### ☕ Other Technologies
+
+* Java (Spring Boot)
+* Git & GitHub
+* Postman
+* VS Code
+
+---
+
+## 📌 Projects
+
+* 🔹 Full Stack Web Applications using MERN Stack
+* 🔹 Authentication Systems (JWT, Login/Register)
+* 🔹 Responsive UI Designs (Mobile + Desktop)
+* 🔹 API-based Applications
+
+---
+
+## 📈 GitHub Stats
+
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=spcoder0486-leg\&show_icons=true\&theme=default)
+
+---
+
+## 🌐 Connect With Me
+
+* 📧 Email: [your-email@example.com](mailto:sigmarule0486@gmail.com)
+* 💼 LinkedIn:
+* 🌍 Portfolio:
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning ideas into real-world applications and constantly improving my development skills 🚀
