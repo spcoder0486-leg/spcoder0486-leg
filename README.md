@@ -63,8 +63,8 @@ I'm a passionate **Software Engineer & MERN Stack Developer** who loves building
 
 ## 🌐 Connect With Me
 
-* 📧 Email: [your-email@example.com](mailto:sigmarule0486@gmail.com)
-* 💼 LinkedIn:
+* 📧 Email: [sigmarule0486@gmail.com](mailto:email@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/sahil-pathan-394513261
 * 🌍 Portfolio: https://mypersonalportfoliowsp.netlify.app/
 
 ---
